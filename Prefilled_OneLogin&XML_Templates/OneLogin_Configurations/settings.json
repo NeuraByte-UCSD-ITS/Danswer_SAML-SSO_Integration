@@ -1,0 +1,20 @@
+{
+  "strict": false,
+  "debug": true,
+  "idp": {
+    "entityId": "",
+    "singleSignOnService": {
+      "url": "",
+      "binding": ""
+    },
+    "x509cert": ""
+  },
+  "sp": {
+    "entityId": "",
+    "assertionConsumerService": {
+      "url": "",
+      "binding": ""
+    },
+    "x509cert": ""
+  }
+}
